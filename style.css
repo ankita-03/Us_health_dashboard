@@ -1,0 +1,112 @@
+body {
+  background-image: url('usahealth.jpg');
+  background-size: cover;
+}
+
+div {
+  background-color: transparent;
+  color: steelblue;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+p {
+    color: black;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: large;
+}
+
+.well {
+  color: black;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+h1 {
+  font-size: xxx-large;
+  color: black
+}
+
+style
+/* width */
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #f1f1f1; 
+}
+ 
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #888; 
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #555; 
+}
+
+h2 {
+  color: black;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+p2 {
+  color: black;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.panel-title {
+  color: black;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.panel-body {
+  color: black;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.item1 {
+  color: transparent;
+}
+
+.item2 {
+  color: transparent;
+}
+
+.item3 {
+  color: transparent;
+}
+
+.item4 {
+  color: transparent;
+}
+
+.row {
+  opacity: .95;
+}
+
+h2 {
+  font-size: xx-large;
+}
+
+a {
+  color: white;
+}
+
+a:link, a:visited {
+  background-color: steelblue;
+  color: white;
+  padding: 15px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+a:hover, a:active {
+  background-color: red;
+}
+
+h5 {
+  font-size: large;
+}
